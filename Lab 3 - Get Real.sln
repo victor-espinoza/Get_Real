@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab 3 - Get Real", "Lab 3 - Get Real\Lab 3 - Get Real.vcxproj", "{C504E884-6C4A-4658-BB49-FA31A4B6D14E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C504E884-6C4A-4658-BB49-FA31A4B6D14E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C504E884-6C4A-4658-BB49-FA31A4B6D14E}.Debug|Win32.Build.0 = Debug|Win32
+		{C504E884-6C4A-4658-BB49-FA31A4B6D14E}.Release|Win32.ActiveCfg = Release|Win32
+		{C504E884-6C4A-4658-BB49-FA31A4B6D14E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
