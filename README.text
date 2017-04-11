@@ -1,0 +1,34 @@
+# Get_Real
+Project Overview:
+Simple C++ program that performs various functions on complex numbers. 
+
+This program is very simple. With it you can create complex numbers, change complex number values, print out a complex number, multiply complex numbers together, determine the absolute value of a complex number, and check a complex number for equality with another complex number.
+
+Dependencies:
+Microsoft Visual Studio Express 2012 for Windows Desktop Version: 11.0.61030.00 Update 4.
+
+Sample Output:
+Welcome to the GetReal program; lets get started!
+
+complex2.toString() Output:
+5-12i
+
+complex1.toString() Output:
+4-12i
+
+complex1.getReal() Output:
+4
+
+complex1.getImaginary() Output:
+-12
+
+complex2.absoluteValue() Output:
+13
+
+complex1.multiply(complex2) Output:
+-124-108i
+
+That concludes this program; thank you for using it!
+Enjoy the rest of your day!
+
+Press any key to continue . . .
