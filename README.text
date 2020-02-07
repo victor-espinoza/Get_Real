@@ -1,6 +1,6 @@
 Project Overview:
 
-This is a simple text-based C++ program that performs various functions on complex numbers. 
+This is a simple text-based C++ program that performs various functions on complex numbers.
 
 This program is very simple. With it you can create complex numbers, change complex number values, print out a complex number, multiply complex numbers together, determine the absolute value of a complex number, and check a complex number for equality with another complex number.
 
